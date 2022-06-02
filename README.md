@@ -5,7 +5,7 @@
 Designed by myself. Linked fonts, icons and free images found in web.
 
 ## Preview
-https://wauk33.github.io/MyRepo/bootstrap%20RWD%20Workshop%20website/
+https://wauk33.github.io/LP_CarWorkshop
 > Hosted on GitHub Pages
 
 ## Features
