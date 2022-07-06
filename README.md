@@ -5,7 +5,7 @@
 Designed by myself. Linked fonts, icons and free images found in web.
 
 ## Preview
-https://wauk33.github.io/LP_CarWorkshop
+https://wauk33.github.io/LP_Car-Workshop
 > Hosted on GitHub Pages
 
 ## Features
